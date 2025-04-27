@@ -59,13 +59,12 @@ Here are some ideas to get you started:
 </p>
 
 
-<a href="https://github.com/Sudesh4142" title="Redirects to github page">
-<img width="53%" src="https://leetcard.jacoblin.cool/subrat_ojha" /></a>
+
 
 
 
 ## **Wanna know more about me?** 
-**Send me an email** : iamsubratojha@gmail.com
+**Send me an email** : sudeshbhadra123@gmail.com
 
 <a href="https://sudesh.sayout.net/">
 	<img src= "https://img.shields.io/badge/Send Anonymous Messages-664E6B?style=for-the-badge&logo=googlemessages&logoColor=white">
