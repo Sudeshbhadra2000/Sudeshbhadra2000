@@ -1,19 +1,19 @@
 <link href="style.css" rel="stylesheet"></link>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=%3CHello+World%2C+Subrat+here!%2F%3E)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=%3CHello+World%2C+Sudesh+here!%2F%3E)
 
 <!-- Followers -->
-![GitHub followers](https://img.shields.io/github/followers/Subrat?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=subrat&label=PROFILE VIEWS  &color=red&style=flat" alt="subrat"/>
+![GitHub followers](https://img.shields.io/github/followers/Sudesh?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=sudesh&label=PROFILE VIEWS  &color=red&style=flat" alt="sudesh"/>
 
 <!--
-**subrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sudesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
 -->
 
 - 👨‍💻 I’m currently working on my **System Design** and **DSA**.
-- 🤯 I’m currently learning advanced **Java**
+- 🤯 I’m currently learning  **SpringBoot and ReactJS**
 - 🤩 I’m looking to collaborate on **Full stack Java** Projects
 - 👨‍🏭 **Computer Science Graduate** and **Software Developer** 
 
@@ -23,23 +23,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a> 
-<a href="mailto:iamsubratojha@gmail.com">
+<a href="mailto:sudeshbhadra123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://twitter.com/iamsubratojha">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/heyy.subrat/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.chess.com/member/">
-	<img src= "https://img.shields.io/badge/Chess-769656?style=for-the-badge&logo=lichess&logoColor=white">
-</a>
-
-
-
 
 # **About me** :
 
@@ -50,9 +36,6 @@ Here are some ideas to get you started:
 - I 👨‍🏫love to **share** my **knowledge** and **experience** in **workshops** organized for students.
 - Always excited and ready to **learn new skills👨‍🎓**.
 
-<!-- Heruko Application Error - Contribution Graph
-[![Jiganesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jiganesh&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Jiganesh)
- -->
 
 
 
@@ -76,7 +59,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<a href="https://github.com/Jiganesh" title="Redirects to github page">
+<a href="https://github.com/Sudesh4142" title="Redirects to github page">
 <img width="53%" src="https://leetcard.jacoblin.cool/subrat_ojha" /></a>
 
 
@@ -84,7 +67,7 @@ Here are some ideas to get you started:
 ## **Wanna know more about me?** 
 **Send me an email** : iamsubratojha@gmail.com
 
-<a href="https://subrat.sayout.net/">
+<a href="https://sudesh.sayout.net/">
 	<img src= "https://img.shields.io/badge/Send Anonymous Messages-664E6B?style=for-the-badge&logo=googlemessages&logoColor=white">
 </a>
 
