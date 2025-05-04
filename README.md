@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - 🤩 I’m looking to collaborate on **Full stack Java** Projects
 - 👨‍🏭 **Computer Science Graduate** and **Software Developer** 
 
-<a href="https://leetcode.com/Subrat_ojha/">
+<a href="https://leetcode.com/u/sudeshk2000/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/sudesh-kumar-bhadra/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a> 
 <a href="mailto:sudeshbhadra123@gmail.com">
